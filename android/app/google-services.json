@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "773985934364",
+    "project_id": "adessua-hub-a532a",
+    "storage_bucket": "adessua-hub-a532a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773985934364:android:8616a5f145f966c14493d9",
+        "android_client_info": {
+          "package_name": "com.ocbew.adessua"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773985934364-u0jr9i9rke5r9p1pk88blurd3na0qhqo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ocbew.adessua",
+            "certificate_hash": "3cefe720103cfcbc2390a38350d9e4fe16e136d0"
+          }
+        },
+        {
+          "client_id": "773985934364-j5sqk83sg36h0cen4mq8iru7nljfdbod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_5spxiYdr69BeKYC9KCEtYVtERQbSXWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773985934364-j5sqk83sg36h0cen4mq8iru7nljfdbod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

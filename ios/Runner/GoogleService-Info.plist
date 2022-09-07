@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>773985934364-f57j8pddmcenmfq2k6nb47d9r8tq5frs.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.773985934364-f57j8pddmcenmfq2k6nb47d9r8tq5frs</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>773985934364-u0jr9i9rke5r9p1pk88blurd3na0qhqo.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAwY9HVVOnbHA_11th5yyoF4wNItBTYwZA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>773985934364</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ocbew.adessua</string>
+	<key>PROJECT_ID</key>
+	<string>adessua-hub-a532a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>adessua-hub-a532a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:773985934364:ios:182ddc8a4fa40d644493d9</string>
+</dict>
+</plist>

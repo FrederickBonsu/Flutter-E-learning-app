@@ -1,0 +1,66 @@
+name: adessua
+description: An Elearning app.
+
+version: 2.0.0
+
+environment:
+  sdk:  '>=2.7.0 <3.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  cupertino_icons:
+
+  firebase_core: ^1.10.0
+  firebase_auth:  ^3.2.0
+  cloud_firestore: ^3.1.0
+  html_unescape: ^2.0.0
+  auto_size_text: ^2.1.0
+  flutter_easyloading: ^3.0.0
+  flutter_custom_clippers: ^2.0.0
+  get: ^4.3.8
+  get_storage: ^2.0.3
+  font_awesome_flutter: ^9.1.0
+  crypto: ^3.0.1
+  pdf_render: ^1.0.12
+  flutter_cache_manager: ^3.1.2
+  percent_indicator: ^3.0.1
+  http: ^0.13.3
+  csv: ^5.0.0
+  better_player:
+
+
+
+
+
+
+dependency_overrides:
+#  analyzer: 1.7.1
+#  intl: 0.17.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+flutter:
+  uses-material-design: true
+  assets:
+
+    - assets/img/
+
+  fonts:
+    - family: ProductSans
+      fonts:
+
+        - asset: assets/fonts/ProductSans-Light.ttf
+          weight: 300
+        - asset: assets/fonts/ProductSans-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/ProductSans-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/ProductSans-Bold.ttf
+          weight: 600
+
